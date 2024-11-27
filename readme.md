@@ -20,7 +20,6 @@ Welcome to **Nerdy**, your one-stop shop for all things stylish and functional! 
 ## 📚 **Technologies Used**
 - **HTML5**: Structured content and markup.
 - **CSS3**: Styling and design using custom styles and Tailwind CSS.
-- **JavaScript**: Future functionality such as cart operations, dynamic interactions, etc.
 - **Tailwind CSS**: Utility-first CSS framework for fast and efficient styling.
 - **Netlify**: Deployed the project for live access at [Nerdy Online Store](https://nerdyonlinestore.netlify.app/).
 
